@@ -1,0 +1,5 @@
+JSON Input :
+
+{
+	"buyerRequest":"Buyer-1/8/650"
+}
